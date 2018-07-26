@@ -60,7 +60,7 @@ export default () => {
     if (clientVersion) {
       return res.send(ejs.render(template, {
         config: settings,
-        assets: { version: clientVersion }
+        assets: { version: '1.0.0' }
       }));
     }
 
