@@ -1,6 +1,6 @@
 {
   "title": "Auth0 Deploy CLI",
-  "name": "auth0-deploy-cli-extension",
+  "name": "auth0-deploy-cli-extension-socrata",
   "version": "1.0.2",
   "author": "auth0",
   "description": "The Auth0 Deploy Extension allows you to use the Auth0 Deploy CLI to configure your Auth0 Tenant",
@@ -10,7 +10,7 @@
   "logoUrl": "http://openid.net/wordpress-content/uploads/2016/05/auth0-logo-blue.png",
   "initialUrlPath": "/admins/login",
   "uninstallConfirmMessage": "Do you really want to uninstall this extension? Doing so will also remove the rule and the token endpoint.",
-  "repository": "https://github.com/auth0-extensions/auth0-deploy-cli-extension",
+  "repository": "https://github.com/socrata/auth0-deploy-cli-extension",
   "keywords": [
     "auth0",
     "extension",
